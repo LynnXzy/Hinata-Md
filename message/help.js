@@ -268,9 +268,9 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
  *≻* ${prefix}delprem
 
  *THANKS TO*
- *≻* Irfan H.
- *≻* Fatih Arridho
- *≻* Yog Azz
- *≻* Faiz Frdnd
- *≻* Riy 04`
+ *≻* Andrii
+ *≻* Tio
+ *≻* Exc
+ *≻* Lann
+ *≻* Org2 berdonasi`
 }
